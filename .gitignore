@@ -1,2 +1,7 @@
-main.py
-jupy.ipynb
+# Ignore directories
+resumes/
+emails/
+messages/
+
+# Ignore environment file
+.env
