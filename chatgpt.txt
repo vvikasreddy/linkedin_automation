@@ -1,4 +1,0 @@
-I will give you the job description, and my current overleaf template, I want you to finetune my resume for the job, and it my resume highly relevant, if i give you the overleaf template, please give me that; one thing to remember is that it should be of high quality, and include key words so that it passes the ATS. and also remember to give me bullet in the similar word range, so that my resume does not cross the one page limit that I set. you should make my resume inherently capture the job requirements, the resume points should make sense, and not ambigious 
-
-
-Give extra note on the bullet points, they should match the overleaf code or be less, cant be more. 
